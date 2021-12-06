@@ -1,0 +1,12 @@
+h1, p {
+  font-family: Lato;
+}
+button{
+  margin-left:10px;
+}
+
+.app{background-color:Thistle;
+  border:1px solid black;
+  padding:3px;
+  margin:4px;
+}
